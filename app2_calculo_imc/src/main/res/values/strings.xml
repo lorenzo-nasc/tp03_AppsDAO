@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">App 2 - Calculadora de IMC</string>
+    <string name="titulo_resultado">Resultado do IMC</string>
+</resources>
